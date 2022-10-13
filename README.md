@@ -1,4 +1,4 @@
-#Mini Portfólio
+## Mini Portfólio
 
 ![preview](./src/imagens/exemplo-site.png)
 
