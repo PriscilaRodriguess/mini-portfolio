@@ -6,7 +6,7 @@
 
 [🔗 Clique aqui para acessar](https://priscilarodriguess.github.io/mini-portfolio/)
 
-##🛠 Tecnologias
+## 🛠 Tecnologias
 
 -HTML
 -CSS
